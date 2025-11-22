@@ -69,11 +69,11 @@ It runs entirely on the **Frontend**, utilizing advanced LocalStorage management
 
 | **Dashboard (Dark Mode)** | **Visual Analytics** |
 |:---:|:---:|
-| ![Dashboard](https://placehold.co/600x400/1e293b/ffffff?text=Dashboard+Preview) | ![Analytics](https://placehold.co/600x400/1e293b/ffffff?text=Charts+Preview) |
+| ![Dashboard](https://ik.imagekit.io/zxxzgk3iq/Screenshot%202025-11-22%20at%203.28.35%E2%80%AFPM.png) | ![Analytics](https://ik.imagekit.io/zxxzgk3iq/Screenshot%202025-11-22%20at%203.28.48%E2%80%AFPM.png) |
 
 | **Onboarding Screen** | **Skip Logic (Greyscale)** |
 |:---:|:---:|
-| ![Onboarding](https://placehold.co/600x400/1e293b/ffffff?text=Onboarding+Flow) | ![Skip Logic](https://placehold.co/600x400/1e293b/ffffff?text=Skip+Day+Disabled) |
+| ![Onboarding](https://ik.imagekit.io/zxxzgk3iq/Screenshot%202025-11-22%20at%203.27.57%E2%80%AFPM.png) | ![Skip Logic](https://ik.imagekit.io/zxxzgk3iq/Screenshot%202025-11-22%20at%203.29.02%E2%80%AFPM.png) |
 
 ## 🚀 Getting Started
 
