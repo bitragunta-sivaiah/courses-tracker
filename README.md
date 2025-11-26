@@ -20,11 +20,8 @@
   <br />
   <br />
   
-  <a href="https://your-live-demo-link.com">View Live Demo</a>
-  ·
-  <a href="https://github.com/your-username/your-repo/issues">Report Bug</a>
-  ·
-  <a href="https://github.com/your-username/your-repo/issues">Request Feature</a>
+  <a href="https://courses-tracker.onrender.com/">View Live Demo</a>
+
 </div>
 
 <br />
